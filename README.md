@@ -5,14 +5,19 @@
 <p>Cristian Patiño</p>
 
 <h2>Punto 1: Constantes y variables</h2>
+<img src="./public/images/punto-1.png" alt="punto 1">
 
 <h2>Punto 2: Sumas de Constantes y variables</h2>
+<img src="./public/images/punto-2.png" alt="punto 2">
 
 <h2>Punto 3: Sumas de dos números indicados por el usuarios</h2>
+<img src="./public/images/punto-3.png" alt="punto 3">
 
 <h2>Punto 4: Datos de los usuarios en consola</h2>
+<img src="./public/images/punto-4.png" alt="punto 4">
 
 <h2>Punto 5: Entrada de bolera usando IF / Else</h2>
+<img src="./public/images/punto-5.png" alt="punto 5">
 
 <h2>Punto 6: Detección de mayoria de edad</h2>
 
